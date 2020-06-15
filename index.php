@@ -1,8 +1,8 @@
-<body bgcolor='#e1e1e1'>
+<body bgcolor='aqua'>
 <pre>
 <?php
 print "Hello"
-print `ifconfig`
+print `ifconfig'
 
 ?>
 </pre>
